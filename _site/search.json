@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "GISProject",
@@ -7,10 +14,31 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "overview.html",
+    "href": "overview.html",
+    "title": "Overview",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "In this project, we are given two major themes and sub-themes. Detail description of this project is available on this page.\nLand cover classification is a commonly application area of digital image analysis."
+  },
+  {
+    "objectID": "overview.html#literature-review",
+    "href": "overview.html#literature-review",
+    "title": "Overview",
+    "section": "Literature review",
+    "text": "Literature review\nIn this project, the following articles will be reviewed."
+  },
+  {
+    "objectID": "overview.html#objectives",
+    "href": "overview.html#objectives",
+    "title": "Overview",
+    "section": "Objectives",
+    "text": "Objectives\nThis objectives of this project are as follows:\n\nObjective 1:\nObjective 2"
+  },
+  {
+    "objectID": "overview.html#task",
+    "href": "overview.html#task",
+    "title": "Overview",
+    "section": "Task",
+    "text": "Task\nThe project tasks are as follows:"
   }
 ]
