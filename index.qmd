@@ -6,8 +6,4 @@ Welcome to our GIS project web site.
 
 This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+To learn more about Quarto websites visit [https://quarto.org/docs/websit](https://quarto.org/docs/websites){.uri}e
